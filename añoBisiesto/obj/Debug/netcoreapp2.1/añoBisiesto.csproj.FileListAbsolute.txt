@@ -1,0 +1,11 @@
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\bin\Debug\netcoreapp2.1\añoBisiesto.deps.json
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\bin\Debug\netcoreapp2.1\añoBisiesto.runtimeconfig.json
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\bin\Debug\netcoreapp2.1\añoBisiesto.runtimeconfig.dev.json
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\bin\Debug\netcoreapp2.1\añoBisiesto.dll
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\bin\Debug\netcoreapp2.1\añoBisiesto.pdb
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.csprojAssemblyReference.cache
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.AssemblyInfoInputs.cache
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.AssemblyInfo.cs
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.dll
+C:\Users\raule\Source\repos\añoBisiesto\añoBisiesto\obj\Debug\netcoreapp2.1\añoBisiesto.pdb
